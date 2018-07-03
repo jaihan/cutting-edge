@@ -3,6 +3,6 @@
 ## Technologies
 
 - ### Nodejs
-    - [Nodejs](https://www.tutorialspoint.com/nodejs/nodejs_quick_guide.htm/)- Toturial 
+    - [Nodejs](https://www.tutorialspoint.com/nodejs/index.htm)- Toturial 
     
 
