@@ -1,2 +1,2 @@
 # cutting-edge
-learn and develop.
+see dev branch
