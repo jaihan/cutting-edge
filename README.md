@@ -1,4 +1,4 @@
 # Get started
-- [Nodejs](https://www.tutorialspoint.com/nodejs/index.htm)- Toturial 
+- [Nodejs](https://www.tutorialspoint.com/nodejs/index.htm)-
     
 
